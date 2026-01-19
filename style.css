@@ -19,6 +19,13 @@ h1{
     
     
 }
+profile{
+    text-align:center;
+    border-radius:50%;
+    border:5px solid #333;
+    width:220px;
+    height:220px;
+}
 h2{
     text-decoration: underline;
     margin-bottom:5px;
@@ -96,4 +103,5 @@ fieldset {
 }
 .contact{
     white-space: normal;
+
 }
