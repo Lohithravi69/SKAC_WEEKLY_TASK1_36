@@ -19,7 +19,7 @@ h1{
     
     
 }
-profile{
+picture{
     text-align:center;
     border-radius:50%;
     border:5px solid #333;
@@ -105,3 +105,4 @@ fieldset {
     white-space: normal;
 
 }
+
