@@ -19,16 +19,17 @@ h1{
     
     
 }
+
 picture{
-    text-align:center;
     border-radius:50%;
-    display:block;
-    width:200px;
-    height:200px;
-    transfrom:translate(-50%,50%);
-    object-fit:cover;
-    position:absolute;
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    width:100%;
+    margin-top:200px;
+    margin-bottom:200px;
 }
+
 h2{
     text-decoration: underline;
     margin-bottom:5px;
@@ -107,6 +108,13 @@ fieldset {
 .contact{
     white-space: normal;
 
+}
+img.picture {
+    border-radius: 50%;
+    object-fit: cover;
+    width: 175px;
+    height: 175px;
+    border:5px solid ;
 }
 
 
